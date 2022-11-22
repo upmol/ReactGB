@@ -1,0 +1,8 @@
+.border {
+  width: 300px;
+  padding: 10px;
+  border-radius: 11px;
+  outline: none;
+  border: none;
+  background: #8fbbe4;
+}
